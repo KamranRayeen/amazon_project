@@ -12,7 +12,10 @@ I have worked on analyzing a dataset of over 20,000 sales records from an Amazon
 
 The project also focuses on data cleaning, handling null values, and solving real-world business problems using structured queries.
 
+
+
 ---
+
 
 
 ## **Database Setup & Design**
